@@ -3,8 +3,9 @@ import  React  from "react";
 
 function Main() {
     return(
+        <div><h3>Northern</h3>
         <main className='container'>
-            <h3>Northern</h3>
+            
             <div className='row'>
             
 
@@ -42,6 +43,7 @@ function Main() {
             </div>
 
         </main>
+        </div>
     )
     
 }

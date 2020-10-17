@@ -4,7 +4,7 @@ import React from 'react';
 function Header() {
     return(
         <header>
-            <h1 className='App'>Naija Tourist Scope</h1>
+            <h1 className='App'>Naija Tourist Site</h1>
             <form className='formInput'>
                 <input
                     className='InputSpace'
