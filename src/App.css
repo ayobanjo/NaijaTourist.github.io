@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+.formInput{
+  display: flex;
+ -ms-flex-pack: center !important;
+ justify-content: center !important;
+ margin-bottom: 10px;
+}
+
+.InputSpace{
+  margin-right: 4px;
+}
+h1{
+  font-family: Good brush !important;
+}
+.btn{
+      color: rgb(255, 255, 255);
+      background-color: rgb(0, 123, 255);
+      border-color: rgb(0, 123, 255);
+      padding: 0.375rem 0.75rem;
+      border-radius: 0.25rem;
+}
+
+.navlink{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+a{
+  margin-right: 15px;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+.mr{
+  margin-right: 9px !important;
+}
+.mb {
+  margin-right: 9px !important;
+}
+
+.container {
+  max-width: 960px;
+  margin: auto;
+  justify-content: center !important;
+  display: flex;
+ }
